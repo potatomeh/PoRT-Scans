@@ -1,12 +1,12 @@
 {
   "title": "Futon",
-  "description": "A story about a overworked guy getting stuck to a futon and finding love. \n \nPart 1 - Boku in Futon (俺in布団) \n Part 2 - Watashi in Futon (私in布団)",
+  "description": "Futon by anno (@sakana32929) \nA story about a overworked guy getting stuck to a futon and finding love. \n \nPart 1 - Boku in Futon (俺in布団) \n Part 2 - Watashi in Futon (私in布団)",
   "artist": "anno",
   "author": "anno",
   "cover": "https://media.discordapp.net/attachments/827934551719542797/860803648435257344/001.jpg?width=496&height=701",
   "chapters": {
     "1": {
-      "title": "Ore in Futon",
+      "title": "Me in the Futon",
       "volume": "0",
       "groups": {
         "PoRT Scans": "/proxy/api/imgur/chapter/98efQOd/"
@@ -14,7 +14,7 @@
       "last_updated": "1625302096"
     },
     "2": {
-      "title": "Watashi in Futon",
+      "title": "Me in the Futon",
       "volume": "0",
       "groups": {
         "PoRT Scans": "/proxy/api/imgur/chapter/<imgur id>/"
