@@ -1,0 +1,25 @@
+{
+  "title": "Futon",
+  "description": "A story about a overworked guy getting stuck to a futon and finding love.",
+  "artist": "anno",
+  "author": "anno",
+  "cover": "https://media.discordapp.net/attachments/827934551719542797/860803648435257344/001.jpg?width=496&height=701",
+  "chapters": {
+    "1": {
+      "title": "Ore in Futon",
+      "volume": "0",
+      "groups": {
+        "PoRT Scans": "/proxy/api/imgur/chapter/98efQOd/"
+      },
+      "last_updated": "1625302096"
+    },
+    "2": {
+      "title": "Watashi in Futon",
+      "volume": "0",
+      "groups": {
+        "PoRT Scans": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1625302096"
+    }
+  }
+}
